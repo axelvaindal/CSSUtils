@@ -1,0 +1,61 @@
+/*************************************************************************
+*
+* M4dNation
+* __________________
+*
+*  [2015] - [2016] M4dNation
+*  All Rights Reserved.
+*
+* NOTICE:  All information contained herein is, and remains
+* the property of M4dNation and its suppliers,
+* if any.  The intellectual and technical concepts contained
+* herein are proprietary to M4dNation
+* and its suppliers and may be covered by France and Foreign Patents,
+* patents in process, and are protected by trade secret or copyright law.
+* Dissemination of this information or reproduction of this material
+* is strictly forbidden unless prior written permission is obtained
+* from M4dNation.
+*
+* Original author: @axelvaindal;
+*
+*/
+
+/*=============================================
+=            Text Manipulation Class  		=
+=============================================*/
+.text-x2{font-size: 2.0em !important;}
+.text-x3{font-size: 3.0em !important;}
+.text-x4{font-size: 4.0em !important;}
+.text-x5{font-size: 5.0em !important;}
+.text-x6{font-size: 6.0em !important;}
+.text-x7{font-size: 7.0em !important;}
+.text-x8{font-size: 8.0em !important;}
+.text-x9{font-size: 9.0em !important;}
+.line-through{text-decoration: line-through !important;}
+.sm-capitalize{font-variant: small-caps !important;}
+.capitalize{text-transform: capitalize !important;}
+.underline{text-decoration: underline !important;}
+.uppercase{text-transform: uppercase !important;}
+.lowercase{text-transform: lowercase !important;}
+.overline{text-decoration: overline !important;}
+.blink{text-decoration: blink !important;}
+.oblique{font-style: oblique !important;}
+.italic{font-style: italic !important;}
+.bold{font-weight: bold !important;}
+.nowrap{white-space: nowrap !important;}
+.bw{word-wrap : break-word !important;}
+.pre{white-space: pre !important;}
+/*=============================================
+=            Font Class  					=
+=============================================*/
+.times-new-roman{font-family: "Times New Roman" !important;}
+.comic-sans-ms{font-family: "Comic Sans MS" !important;}
+.trebuchet{font-family : "Trebuchet MS" !important;}
+.courier-new{font-family: "Courier New" !important;}
+.arial-black{font-family: "Arial Black" !important;}
+.sans-serif{font-family: sans-serif !important;}
+.verdana{font-family: Verdana !important;}
+.georgia{font-family: Georgia !important;}
+.impact{font-family: Impact !important;}
+.arial{font-family: Arial !important;}
+.serif{font-family: serif !important;}
