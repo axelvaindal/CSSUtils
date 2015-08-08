@@ -1,28 +1,20 @@
-/*************************************************************************
-*
-* M4dNation
-* __________________
-*
-*  [2015] - [2016] M4dNation
-*  All Rights Reserved.
-*
-* NOTICE:  All information contained herein is, and remains
-* the property of M4dNation and its suppliers,
-* if any.  The intellectual and technical concepts contained
-* herein are proprietary to M4dNation
-* and its suppliers and may be covered by France and Foreign Patents,
-* patents in process, and are protected by trade secret or copyright law.
-* Dissemination of this information or reproduction of this material
-* is strictly forbidden unless prior written permission is obtained
-* from M4dNation.
-*
-* Original author: @axelvaindal;
-*
-*/
-
 /*=============================================
 =            Color class   					=
 =============================================*/
+.tumblrdarkturquoise{color: #32506D !important;}
+.flickrpink{color: #FF0084 !important;}
+.quoraburgundy{color: #A82400 !important;}
+.snapchatyellow{color: #FFFC00 !important;}
+.vinegreen{color: #00BF8F !important;}
+.pinterestred{color: #CB2027 !important;}
+.youtubered{color: #BB0000 !important;}
+.googlepred{color: #DD4B39 !important;}
+.vkblue{color: #45668E !important;}
+.instagramblue{color: #517FA4 !important;}
+.linkedinblue{color: #007BB6 !important;}
+.twitterblue{color: #00ACED !important;}
+.facebookblue{color: #3B5998 !important;}
+.foursquarelogoblue{color: #0072B1 !important;}
 .vulbisnavy{color: #1f2837;}
 .whitesmoke{color: #F5F5F5 !important;}
 .sienna{color: #A0522D !important;}
@@ -191,6 +183,20 @@
 /*=============================================
 =            Background Color class   		=
 =============================================*/
+.bg-tumblrdarkturquoise{background-color: #32506D !important;}
+.bg-flickrpink{background-color: #FF0084 !important;}
+.bg-quoraburgundy{background-color: #A82400 !important;}
+.bg-snapchatyellow{background-color: #FFFC00 !important;}
+.bg-vinegreen{background-color: #00BF8F !important;}
+.bg-pinterestred{background-color: #CB2027 !important;}
+.bg-youtubered{background-color: #BB0000 !important;}
+.bg-googlepred{background-color: #DD4B39 !important;}
+.bg-vkblue{background-color: #45668E !important;}
+.bg-instagramblue{background-color: #517FA4 !important;}
+.bg-linkedinblue{background-color: #007BB6 !important;}
+.bg-twitterblue{background-color: #00ACED !important;}
+.bg-facebookblue{background-color: #3B5998 !important;}
+.bg-foursquarelogoblue{background-color: #0072B1 !important;}bg-
 .bg-vulbisnavy{background-color: #1f2837;}
 .bg-whitesmoke{background-color: #F5F5F5 !important;}
 .bg-sienna{background-color: #A0522D !important;}
@@ -359,6 +365,20 @@
 /*=============================================
 =            Stroke Color class   			=
 =============================================*/
+.str-tumblrdarkturquoise{stroke: #32506D !important;}
+.str-flickrpink{stroke: #FF0084 !important;}
+.str-quoraburgundy{stroke: #A82400 !important;}
+.str-snapchatyellow{stroke: #FFFC00 !important;}
+.str-vinegreen{stroke: #00BF8F !important;}
+.str-pinterestred{stroke: #CB2027 !important;}
+.str-youtubered{stroke: #BB0000 !important;}
+.str-googlepred{stroke: #DD4B39 !important;}
+.str-vkblue{stroke: #45668E !important;}
+.str-instagramblue{stroke: #517FA4 !important;}
+.str-linkedinblue{stroke: #007BB6 !important;}
+.str-twitterblue{stroke: #00ACED !important;}
+.str-facebookblue{stroke: #3B5998 !important;}
+.str-foursquarelogoblue{stroke: #0072B1 !important;}str-
 .str-vulbisnavy{stroke: #1f2837;}
 .str-whitesmoke{stroke: #F5F5F5 !important;}
 .str-sienna{stroke: #A0522D !important;}
@@ -527,6 +547,20 @@
 /*=============================================
 =            Fill Color class   			=
 =============================================*/
+.fill-tumblrdarkturquoise{fill: #32506D !important;}
+.fill-flickrpink{fill: #FF0084 !important;}
+.fill-quoraburgundy{fill: #A82400 !important;}
+.fill-snapchatyellow{fill: #FFFC00 !important;}
+.fill-vinegreen{fill: #00BF8F !important;}
+.fill-pinterestred{fill: #CB2027 !important;}
+.fill-youtubered{fill: #BB0000 !important;}
+.fill-googlepred{fill: #DD4B39 !important;}
+.fill-vkblue{fill: #45668E !important;}
+.fill-instagramblue{fill: #517FA4 !important;}
+.fill-linkedinblue{fill: #007BB6 !important;}
+.fill-twitterblue{fill: #00ACED !important;}
+.fill-facebookblue{fill: #3B5998 !important;}
+.fill-foursquarelogoblue{fill: #0072B1 !important;}
 .fill-vulbisnavy{fill: #1f2837;}
 .fill-whitesmoke{fill: #F5F5F5 !important;}
 .fill-sienna{fill: #A0522D !important;}
@@ -695,6 +729,20 @@
 /*=============================================
 =            Border color class  			=
 =============================================*/
+.brd-tumblrdarkturquoise{border-color: #32506D !important;}
+.brd-flickrpink{border-color: #FF0084 !important;}
+.brd-quoraburgundy{border-color: #A82400 !important;}
+.brd-snapchatyellow{border-color: #FFFC00 !important;}
+.brd-vinegreen{border-color: #00BF8F !important;}
+.brd-pinterestred{border-color: #CB2027 !important;}
+.brd-youtubered{border-color: #BB0000 !important;}
+.brd-googlepred{border-color: #DD4B39 !important;}
+.brd-vkblue{border-color: #45668E !important;}
+.brd-instagramblue{border-color: #517FA4 !important;}
+.brd-linkedinblue{border-color: #007BB6 !important;}
+.brd-twitterblue{border-color: #00ACED !important;}
+.brd-facebookblue{border-color: #3B5998 !important;}
+.brd-foursquarelogoblue{border-color: #0072B1 !important;}
 .brd-whitesmoke{border-color: #F5F5F5 !important;}
 .brd-sienna{border-color: #A0522D !important;}
 .brd-firebrick{border-color: #B22222 !important;}

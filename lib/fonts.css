@@ -1,25 +1,3 @@
-/*************************************************************************
-*
-* M4dNation
-* __________________
-*
-*  [2015] - [2016] M4dNation
-*  All Rights Reserved.
-*
-* NOTICE:  All information contained herein is, and remains
-* the property of M4dNation and its suppliers,
-* if any.  The intellectual and technical concepts contained
-* herein are proprietary to M4dNation
-* and its suppliers and may be covered by France and Foreign Patents,
-* patents in process, and are protected by trade secret or copyright law.
-* Dissemination of this information or reproduction of this material
-* is strictly forbidden unless prior written permission is obtained
-* from M4dNation.
-*
-* Original author: @axelvaindal;
-*
-*/
-
 /*=============================================
 =            Text Manipulation Class  		=
 =============================================*/
@@ -43,19 +21,57 @@
 .italic{font-style: italic !important;}
 .bold{font-weight: bold !important;}
 .nowrap{white-space: nowrap !important;}
-.bw{word-wrap : break-word !important;}
+.bw{word-wrap: break-word !important;}
 .pre{white-space: pre !important;}
 /*=============================================
 =            Font Class  					=
 =============================================*/
 .times-new-roman{font-family: "Times New Roman" !important;}
 .comic-sans-ms{font-family: "Comic Sans MS" !important;}
-.trebuchet{font-family : "Trebuchet MS" !important;}
+.trebuchet-ms{font-family: "Trebuchet MS" !important;}
+.franklin-gothic-medium{font-family: "Franklin Gothic Medium" !important;}
+.century-gothic{font-family: "Century Gothic" !important;}
 .courier-new{font-family: "Courier New" !important;}
+.arial-rounded-mt-bold{font-family: "Arial Rounded MT Bold" !important;}
+.arial-narrow{font-family: "Arial Narrow" !important;}
 .arial-black{font-family: "Arial Black" !important;}
+.avant-garde{font-family: "Avant Garde" !important;}
 .sans-serif{font-family: sans-serif !important;}
+.gill-sans{font-family: "Gill Sans" !important;}
 .verdana{font-family: Verdana !important;}
 .georgia{font-family: Georgia !important;}
 .impact{font-family: Impact !important;}
 .arial{font-family: Arial !important;}
+.calibri{font-family: Calibri !important;}
+.candara{font-family: Candara !important;}
+.futura{font-family: Futura !important;}
+.geneva{font-family: Geneva !important;}
 .serif{font-family: serif !important;}
+.helvetica{font-family: Helvetica !important;}
+.lucida-grande{font-family: "Lucida Grande" !important;}
+.optima{font-family: Optima !important;}
+.segoe-ui{font-family: "Segoe UI" !important;}
+.tahoma{font-family: Tahoma !important;}
+.big-caslon{font-family: "Big Caslon" !important;}
+.bodoni-mt{font-family: "Bodoni MT" !important;}
+.book-antiqua{font-family: "Book Antiqua" !important;}
+.calisto-mt{font-family: "Calisto MT" !important;}
+.cambria{font-family: Cambria !important;}
+.didot{font-family: Didot !important;}
+.garamond{font-family: Garamond !important;}
+.goudy-old-style{font-family: "Goudy Old Style" !important;}
+.hoefler-text{font-family: "Hoefler Text" !important;}
+.lcuida-bright{font-family: "Lucida Bright" !important;}
+.palatino{font-family: Palatino !important;}
+.perpetua{font-family: Perpetua !important;}
+.rockwell{font-family: Rockwell !important;}
+.rockwell-extra-bold{font-family: "Rockwell Extra Bold" !important;}
+.baskerville{font-family: Baskerville !important;}
+.consolas{font-family: Consolas !important;}
+.lucida-console{font-family: "Lucida Console" !important;}
+.lucida-sans-typewriter{font-family: "Lucida Sans Typewriter" !important;}
+.monaco{font-family: Monaco !important;}
+.andale-mono{font-family: "Andale Mono" !important;}
+.copperplate{font-family: Copperplate !important;}
+.papyrus{font-family: Papyrus !important;}
+.brush-script-mt{font-family: "Brush Script MT" !important;}
