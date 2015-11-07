@@ -1,6 +1,13 @@
-/*=============================================
-=            Color class   					=
-=============================================*/
+/*
+|------------------------------------------------------------------------------
+| Color.css
+|------------------------------------------------------------------------------
+|
+| Color handling in css. Provide classes about colors, background & border.
+|
+*/
+
+/* Color */
 .tumblrdarkturquoise{color: #32506D !important;}
 .flickrpink{color: #FF0084 !important;}
 .quoraburgundy{color: #A82400 !important;}
@@ -180,9 +187,8 @@
 .grey{color: gray !important;}
 .teal{color: teal !important;}
 .red{color: red !important;}
-/*=============================================
-=            Background Color class   		=
-=============================================*/
+
+/* Background color */
 .bg-tumblrdarkturquoise{background-color: #32506D !important;}
 .bg-flickrpink{background-color: #FF0084 !important;}
 .bg-quoraburgundy{background-color: #A82400 !important;}
@@ -362,9 +368,25 @@
 .bg-grey{background-color: gray !important;}
 .bg-teal{background-color: teal !important;}
 .bg-red{background-color: red !important;}
-/*=============================================
-=            Stroke Color class   			=
-=============================================*/
+
+/* Background attachment */
+.bg-fixed{background-attachment: fixed !important;}
+.bg-scroll{background-attachment: scroll !important;}
+
+/* Background repeat */
+.no-bg-rpt{background-repeat: no-repeat !important;}
+.bg-rpt{background-repeat: repeat !important;}
+.bg-rpt-x{background-repeat: repeat-x !important;}
+.bg-rpt-y{background-repeat: repeat-y !important;}
+
+/* Background position */
+.bg-top{background-position: top !important;}
+.bg-bot{background-position: bottom !important;}
+.bg-left{background-position: left !important;}
+.bg-right{background-position: right !important;}
+.bg-center{background-position: center !important;}
+
+/* Stroke color */
 .str-tumblrdarkturquoise{stroke: #32506D !important;}
 .str-flickrpink{stroke: #FF0084 !important;}
 .str-quoraburgundy{stroke: #A82400 !important;}
@@ -544,9 +566,8 @@
 .str-grey{stroke: gray !important;}
 .str-teal{stroke: teal !important;}
 .str-red{stroke : red !important;}
-/*=============================================
-=            Fill Color class   			=
-=============================================*/
+
+/* Fill color */
 .fill-tumblrdarkturquoise{fill: #32506D !important;}
 .fill-flickrpink{fill: #FF0084 !important;}
 .fill-quoraburgundy{fill: #A82400 !important;}
@@ -726,9 +747,8 @@
 .fill-grey{fill: gray !important;}
 .fill-teal{fill: teal !important;}
 .fill-red{fill: red !important;}
-/*=============================================
-=            Border color class  			=
-=============================================*/
+
+/* Fill color */
 .brd-tumblrdarkturquoise{border-color: #32506D !important;}
 .brd-flickrpink{border-color: #FF0084 !important;}
 .brd-quoraburgundy{border-color: #A82400 !important;}
@@ -907,9 +927,9 @@
 .brd-grey{border-color: gray !important;}
 .brd-teal{border-color: teal !important;}
 .brd-red{border-color: red !important;}
-/*=============================================
-=            Opacity class  				=
-=============================================*/
+
+/* Opacity */
+.opcaity-full{opacity: 0 !important;}
 .opacity-1{opacity: 0.1 !important;}
 .opacity-2{opacity: 0.2 !important;}
 .opacity-3{opacity: 0.3 !important;}
@@ -919,3 +939,4 @@
 .opacity-7{opacity: 0.7 !important;}
 .opacity-8{opacity: 0.8 !important;}
 .opacity-9{opacity: 0.9 !important;}
+.no-opacity{opacity: 1 !important;}
