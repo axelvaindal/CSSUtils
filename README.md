@@ -139,7 +139,7 @@ You can use either txt-Xp or txt-Xv to change text sizing. Xp is the size in pix
 
 `<p class="txt-12p">12 pixel size text.</p>`
 
-You can use, txt- plus position to align the text in a desired position (this are bootstrap equialent for text-[position]).
+You can use, txt- plus position to align the text in a desired position (these are bootstrap equivalent for text-[position]).
 
 `<p class="txt-center">Text is centered.</p>`
 
