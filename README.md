@@ -21,9 +21,9 @@ CSSUtils is available under the terms of the GNU GENERAL PUBLIC LICENSE. Check t
 
 CSSUtils is just a compilation. It provides you complete CSS for the simpliest tasks. You can use either the minified version for production development or the complete one for test development. In any case, classes provided are the same.
 
-To include CSSUtils in your project, you just have to add load the library with a classical `link`tag:
+To include CSSUtils in your project, you just have to add the library with a classical `link`tag:
 
-`<link rel="stylesheet" type="text/css" href="/path/to/lib/colors.min.css">`
+`<link rel="stylesheet" type="text/css" href="/path/to/lib/Utils.min.css">`
 
 After the file being loaded in your application, you can add a class to any html component you want to change it.
 
