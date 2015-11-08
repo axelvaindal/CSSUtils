@@ -1667,7 +1667,6 @@
 .full-min-hgt{min-height: 100% !important;}
 
 /* Border width */
-
 .brd-1p{border-width: 1px !important;}
 .brd-2p{border-width: 2px !important;}
 .brd-3p{border-width: 3px !important;}
@@ -1720,7 +1719,6 @@
 .brd-50p{border-width: 50px !important;}
 
 /* Border style */
-
 .brd-solid{border-style: solid !important;}
 .brd-dotted{border-style: dotted !important;}
 .brd-dashed{border-style: dashed !important;}
