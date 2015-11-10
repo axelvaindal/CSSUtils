@@ -59,13 +59,14 @@ To use background repeat, attachment, or position, just add bg- plus the needed 
 
 `<div class="bg-fixed"></div>`
 
-To use stroke, just add str- plus the color name as the class name (all colors can be used as stroke color):
-
-`<div class="str-red"></div>`
-
+To use stroke, just add str- plus the color name as the class name (all colors can be used as stroke color).
 To use fill, just add fill- plus the color name as the class name (all colors can be used as fill color):
-
-`<div class="fill-red"></div>`
+Both stroke and fill must be used with `svg` tag:
+```
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" class="str-red fill-green" />
+</svg>
+```
 
 To use border color, just add brd- plus the color name as the class name (all colors can be used as border color):
 
