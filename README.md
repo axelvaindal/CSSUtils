@@ -99,7 +99,7 @@ Letters are : t for top, l for left, b for bottom and r for right.
 
 `<div class="mrg-l-20 mrg-t-10 pdg-r-60 no-pdg-l"></div>`
 
-Width and weight work in the same way.
+Width and height work in the same way.
 You can specify direction, and set to 0 with the same syntax as before.
 You can prefix classes name with max- or min- in order to use max-width and max-height classes.
 
@@ -109,7 +109,7 @@ Note that you can provide full width or full height, with the full-[max|min]-wth
 
 `<div class="full-wth full-hgt full-min-wth full-min-hgt"></div>`
 
-Full width or full height provide a 100% width or height to elements.
+Full width and full height provide a 100% width/height to elements.
 
 All border classes start with brd- .
 You can set border width, using brd- plus the Xp value, Xp being the width in pixel.
@@ -118,13 +118,13 @@ Note that you can also use brd-rad-Xp to provide a rounded border (up to 50 pixe
 
 `<div class="brd-5p brd-rad-2p"></div>`
 
-You can set border style using, brd- plus the style name you wanna use.
+You can set border style using, brd- plus the style name you want to use.
 
 `<div class="brd-10p brd-red brd-rad-3p brd-dashed"></div>`
 
 ### Text.css
 
-Text.css provides you classes for text such as font or text transformation.
+Text.css provides you classes such as font or text transformation.
 You can find inside:
 
 - Text sizing, in pixel and em, text-alignment, text-indent
@@ -140,7 +140,7 @@ You can use either txt-Xp or txt-Xv to change text sizing. Xp is the size in pix
 
 `<p class="txt-12p">12 pixel size text.</p>`
 
-You can use, txt- plus position to align the text in a desired position (these are bootstrap equivalent for text-[position]).
+You can use, txt- plus position to align the text in a desired direction (these are Twitter Bootstrap equivalent for text-[position]).
 
 `<p class="txt-center">Text is centered.</p>`
 
@@ -152,7 +152,7 @@ You can use line-h-Xp, to change line height. Xp is the size in pixel (up from 0
 
 `<p class="line-h-20p">Line height is 20px.</p>`
 
-Text decoration classes are provided as the class name is the decoration you want to apply. The same goes for text transformation, font style weight & variant, wrap & white spaces.
+Text decoration classes are provided such as the class name is the decoration you want to apply. The same goes for text transformation, font style weight & variant, wrap & white spaces.
 
 `<p class="underline capitalize bold"> This text is underlined, capitalized and bold.</p>`
 
@@ -178,7 +178,7 @@ Displaying classes all start with dsp- followed by the display value.
 
 `<div class="dsp-inline"></div>`
 
-Visibility classes are named as is- plus the visibility. These are NOT aliases for hide and show from the Twitter bootstrap considered that hide and show use display value and visibility is something different. Please, read W3C documentation about differences between display and visibility values.
+Visibility classes are named as is- plus the visibility. These are NOT aliases for hide and show from the Twitter Bootstrap considered that hide and show use display value and visibility is something different. Please, read W3C documentation about differences between display and visibility values.
 
 `<p class="is-hidden">Hidden text</p>`
 
