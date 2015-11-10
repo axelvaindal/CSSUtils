@@ -53,7 +53,7 @@ To use color, just add the color name as the class name (see source to complete 
 
 To use background color, just add bg- plus the color name as the class name (all colors can be used as background color):
 
-`<div class="red"></div>`
+`<div class="bg-red"></div>`
 
 To use background repeat, attachment, or position, just add bg- plus the needed value as the class name (see source to complete list of handled value):
 
